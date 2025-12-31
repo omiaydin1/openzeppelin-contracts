@@ -116,6 +116,11 @@ OpenZeppelin Contracts exists thanks to its contributors. There are many ways yo
 ## License
 
 OpenZeppelin Contracts is released under the [MIT License](LICENSE).
+## Base Network Note
+
+This repository can be experimented with on Base mainnet
+for educational and testing purposes.
+
 
 ## Legal
 
